@@ -14,16 +14,16 @@ This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com
 4. Click [FORK](https://github.com/lyfe00011/whatsapp-bot/fork)
 5. Now https://heroku.com/deploy?template=https://github.com/lyfe00011/whatsapp-bot copy this url and change lyfe00011 with your github username and click GO<br>
    <br>
-   <a href="https://youtu.be/FAT06h8jPZY"><img src="https://img.shields.io/badge/-watch%20video-critical?style=for-the-badge&logo=youtube&logoColor=white">
+   <a href="https://youtube.com/channel/UCpEO_OmyB9pCqtnfVETX8MQ"><img src="https://img.shields.io/badge/-watch%20video-critical?style=for-the-badge&logo=youtube&logoColor=white">
    <br>
-   <a href="https://chat.whatsapp.com/Jl6U29pBwmWLG3OOOfdPPt"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+   <a href="https://chat.whatsapp.com/CfEO9Vt5HS88d21dCUwK8d"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
    <br>
    <a href="https://github.com/lyfe00011/whatsapp-bot/wiki/"><img src="https://img.shields.io/badge/plugins-blue?style=for-the-badge&logo=appveyor%22"/></a>
 
 <!--
 [![Run on Repl.it](https://replit.com/badge/github/lyfe00011/whatsapp-bot)](https://replit.com/@Nightbot2O/baileys-qr)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lyfe00011/whatsapp-bot) -->
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https:https://github.com/CBS-CYPHER/whatsapp-bot/blob/master/README.md) -->
 
 | Active | Group commands |
 | :----: | :------------- |
